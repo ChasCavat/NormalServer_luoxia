@@ -1,14 +1,6 @@
 # NormalServer_luoxia
 
-## v1.0.0
-
-- 版本：1.20
-- 加载器：Fabric
-- 要求：无 Mod（原版兼容）
-
-将世界文件夹放入 `.minecraft/saves/` 即可使用。
-
-## v2.0.0 - v6.0.0
+## 2025年02月06日
 
 - 版本：1.20.1
 - 加载器：Fabric
