@@ -1,0 +1,47 @@
+{
+  "create:root": {
+    "criteria": {
+      "0": "2025-01-24 17:33:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-24 17:33:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2025-01-24 17:46:44 +0800",
+      "minecraft:river": "2025-01-25 11:29:57 +0800",
+      "minecraft:forest": "2025-01-24 17:33:54 +0800"
+    },
+    "done": false
+  },
+  "exposure:recipes/tools/black_and_white_film": {
+    "criteria": {
+      "has_camera": "2025-01-24 17:34:02 +0800"
+    },
+    "done": true
+  },
+  "exposure:recipes/tools/color_film": {
+    "criteria": {
+      "has_camera": "2025-01-24 17:34:02 +0800"
+    },
+    "done": true
+  },
+  "exposure:recipes/developing_color_film": {
+    "criteria": {
+      "has_color_film": "2025-01-24 17:34:03 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-24 17:34:09 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
